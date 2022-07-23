@@ -1,5 +1,6 @@
 # :page_facing_up: Currículo Reactjs
 Projeto de um currículo com a integração de react com sass, usando o vite.<br />
+Aula ministrada pelo ![Matheus Batisti](https://github.com/matheusbattisti)
 
 ## :computer: Tecnologias Usadas:
 * React
